@@ -1,10 +1,18 @@
 # NotWidgets: Nothing-Style Widgets for Rainmeter
 
-![Banner](Screenshots/banner.png) <!-- Optional header image -->
+<img width="800" height="269" alt="th" src="https://github.com/user-attachments/assets/49dacfbf-02a9-4545-9677-9fa597376d3d" />
 
 > "If we use widgets every day on our phones, why not on our PCs too?"
 
 Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 20 customizable widgets (10 core designs × light/dark modes). A community-driven Rainmeter project.
+
+## ⚠️ Disclaimers
+
+- **Not affiliated with Nothing Technology Ltd**.
+- **Not an official** port - independent community project
+- Requires Rainmeter to function
+- Windows 11 users: Widgets may hide with Win+D (disable auto-hide in settings)
+
 
 ## ✨ Features
 
@@ -33,7 +41,7 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 20 
 
 ## 🖼️ Widget Showcase
 
-> They are also Animated!
+> They are also Animated! (may take a while to load gif...)
 >
 > ![AllShowcase](https://github.com/user-attachments/assets/96cee0f2-1df7-4920-bbd3-7bda76a7f86b)
 >
@@ -48,14 +56,14 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 20 
 
 ## 🚧 Roadmap
 
-- [ ] User widget templates (Q4 2025)
-- [ ] Dynamic data support (stocks/news)
-- [ ] Touchscreen optimization
-- [ ] Community widget gallery
+- [ ] More widgets PC adaptation
+- [ ] User Generated Widget
 
+# SOON
 ## 👥 Community Contributions
 
-> "From the community, for the community"
+> "From the community, for the community" (soon...)
+
 
 We welcome widget submissions! Here's how to contribute:
 
@@ -64,25 +72,17 @@ We welcome widget submissions! Here's how to contribute:
 3. Submit a Pull Request
 4. Approved widgets will be featured in updates
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
-## ⚠️ Disclaimers
-
-- Not affiliated with Nothing Technology Ltd.
-- Not an official OS port - independent community project
-- Requires Rainmeter to function
-- Windows 11 users: Widgets may hide with Win+D (disable auto-hide in settings)
+See ___.MD for detailed guidelines.
 
 ## 📜 License
 
-GNU GPL v2 - [Full license text](LICENSE)
-
-> Rainmeter skins must use GPLv2 to be compatible with Rainmeter's license.
+GNU GPL v3
 
 ## 💬 Support
 
 Have questions or suggestions?  
-Open an [Issue](issues) or join our [Discussions](discussions)!
+Open an [Issue](issues)!
+You also can contact with me via [nothing.community](https://nothing.community/u/aramatniyofc)
 
 ---
 
