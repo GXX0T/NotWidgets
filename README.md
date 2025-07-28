@@ -76,7 +76,7 @@ See ___.MD for detailed guidelines.
 
 ## 📜 License
 
-GNU GPL v3
+GNU GPL v2
 
 ## 💬 Support
 
