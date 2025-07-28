@@ -30,7 +30,7 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 20 
 ### Installation Methods
 
 **Method 1: .rmskin (Recommended)**
-1. Download `NotWidgets.rmskin` from [Releases](link-to-releases)
+1. Download `NotWidgets.rmskin` from [Releases](https://github.com/GXX0T/NotWidgets/releases/tag/Release)
 2. Double-click → Install
 3. Refresh Rainmeter if widgets don't appear immediately
 
