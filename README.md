@@ -59,8 +59,8 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 20 
 - [ ] More widgets PC adaptation
 - [ ] User Generated Widget
 
-# SOON
-## 👥 Community Contributions
+
+## 👥 Community Contributions (SOON)
 
 > "From the community, for the community" (soon...)
 
