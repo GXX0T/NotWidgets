@@ -2,6 +2,8 @@
 
 <img width="800" height="269" alt="th" src="https://github.com/user-attachments/assets/49dacfbf-02a9-4545-9677-9fa597376d3d" />
 
+![GitHub all releases](https://img.shields.io/github/downloads/GXX0T/NotWidgets/total?style=for-the-badge&color=red)
+
 > "If we use widgets every day on our phones, why not on our PCs too?"
 
 Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 20 customizable widgets (10 core designs × light/dark modes). A community-driven Rainmeter project.
