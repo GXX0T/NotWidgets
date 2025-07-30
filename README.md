@@ -12,6 +12,7 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 20 
 - **Not an official** port - independent community project
 - Requires Rainmeter to function
 - Windows 11 users: Widgets may hide with Win+D (disable auto-hide in settings)
+- Enable Hardware Acceleration in rainmeter menu for better perfomance
 
 
 ## ✨ Features
