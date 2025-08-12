@@ -56,12 +56,12 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 20 
 | <img width="520" height="265" alt="image" src="https://github.com/user-attachments/assets/0544b34a-8377-4282-bd75-48a65e2f8323" /> | <img width="520" height="265" alt="image" src="https://github.com/user-attachments/assets/7c7f2baa-b812-4c6d-b652-98146490cfb6" /> |
 
 ## 📩 ToDo
-- Vertical Photo widgets (2x4) / Custom
+- ~~Vertical Photo widgets (2x4) / Custom~~
 - Borderless Photo widgets / Under discussion 
 - ↳ Transparent image support
 - Photo widget - .gif support / Under discussion
-- Horizontal Clocks (4x2) / Lock screen based
-- Round Clocks (2x2) / OS based
+- Horizontal Clocks (4x2) / Lock screen based (1 out of 6)
+- Round Clocks (2x2) / OS based (50% done)
 - Templates (2x1, 2x2, 4x2, 2x4 / rounded and square) / Community Contribution
 
 
