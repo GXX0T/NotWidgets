@@ -19,7 +19,7 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 20 
 
 ## ✨ Features
 
-- **20 Ready-to-Use Widgets**  
+- **27 Ready-to-Use Widgets**  
 - **Community Focused**  
   Future support for user-generated widgets (coming soon!)
 - **Smooth**  
