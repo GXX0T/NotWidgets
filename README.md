@@ -5,10 +5,10 @@
 ![Total Downloads](https://img.shields.io/github/downloads/GXX0T/NotWidgets/total?style=for-the-badge&color=dcdcdc&labelColor=303030&label=DOWNLOADS)
 ![Weekly Downloads](https://img.shields.io/github/downloads/GXX0T/NotWidgets/this-week?style=for-the-badge&color=dcdcdc&labelColor=303030&label=WEEKLY)
 
-![GitHub Stars](https://img.shields.io/github/stars/GXX0T/NotWidgets?style=for-the-badge&color=dcdcdc&labelColor=303030&label=STARS)
+![GitHub Stars](https://img.shields.io/github/stars/GXX0T/NotWidgets?style=for-the-badge&color=ffffff&labelColor=red&label=STARS)
 
 ![Last Commit](https://img.shields.io/github/last-commit/GXX0T/NotWidgets?style=for-the-badge&color=dcdcdc&labelColor=303030&label=LAST%20COMMIT)
-![Monthly Commits](https://img.shields.io/github/commit-activity/m/GXX0T/NotWidgets?style=for-the-badge&color=dcdcdc&labelColor=303030&label=MONTHLY%20COMMITS)
+![Monthly Commits](https://img.shields.io/github/commit-activity/m/GXX0T/NotWidgets?style=for-the-badge&color=ffffff&labelColor=red&label=MONTHLY%20COMMITS)
 
 > "If we use widgets every day on our phones, why not on our PCs too?"
 
