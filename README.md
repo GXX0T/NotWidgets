@@ -2,14 +2,13 @@
 
 <img width="800" height="269" alt="th" src="https://github.com/user-attachments/assets/49dacfbf-02a9-4545-9677-9fa597376d3d" />
 
-![GitHub all releases](https://img.shields.io/github/downloads/GXX0T/NotWidgets/total?style=for-the-badge&color=black&labelColor=white&label=DOWNLOADS&logoColor=red)
-![Downloads This Week](https://img.shields.io/github/downloads/GXX0T/NotWidgets/this-week?style=for-the-badge&color=black&labelColor=white&label=WEEKLY&logoColor=red)
+![GitHub all releases](https://img.shields.io/github/downloads/GXX0T/NotWidgets/total?style=for-the-badge&color=303030&labelColor=dcdcdc&label=DOWNLOADS&logo=github&logoColor=ff0000)
+![Downloads This Week](https://img.shields.io/github/downloads/GXX0T/NotWidgets/this-week?style=for-the-badge&color=303030&labelColor=dcdcdc&label=WEEKLY&logo=github&logoColor=ff0000)
 
-![GitHub Stars](https://img.shields.io/github/stars/GXX0T/NotWidgets?style=for-the-badge&color=black&labelColor=white&label=STARS&logoColor=red)
+![GitHub Stars](https://img.shields.io/github/stars/GXX0T/NotWidgets?style=for-the-badge&color=303030&labelColor=dcdcdc&label=STARS&logo=github&logoColor=ff0000)
 
-![Last Commit](https://img.shields.io/github/last-commit/GXX0T/NotWidgets?style=for-the-badge&color=black&labelColor=white&label=LAST%20COMMIT&logoColor=red)
-![Commits This Month](https://img.shields.io/github/commit-activity/m/GXX0T/NotWidgets?style=for-the-badge&color=black&labelColor=white&label=MONTHLY%20COMMITS&logoColor=red)
-
+![Last Commit](https://img.shields.io/github/last-commit/GXX0T/NotWidgets?style=for-the-badge&color=303030&labelColor=dcdcdc&label=LAST%20COMMIT&logo=github&logoColor=ff0000)
+![Commits This Month](https://img.shields.io/github/commit-activity/m/GXX0T/NotWidgets?style=for-the-badge&color=303030&labelColor=dcdcdc&label=MONTHLY%20COMMITS&logo=github&logoColor=ff0000)
 
 > "If we use widgets every day on our phones, why not on our PCs too?"
 
