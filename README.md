@@ -3,12 +3,12 @@
 <img width="800" height="269" alt="th" src="https://github.com/user-attachments/assets/49dacfbf-02a9-4545-9677-9fa597376d3d" />
 
 ![GitHub all releases](https://img.shields.io/github/downloads/GXX0T/NotWidgets/total?style=for-the-badge&color=red)
-![Downloads This Week](https://img.shields.io/github/downloads/GXX0T/NotWidgets/this-week?style=for-the-badge&color=purple)
+![Downloads This Week](https://img.shields.io/github/downloads/GXX0T/NotWidgets/this-week?style=for-the-badge&color=orange)
 
 ![GitHub Stars](https://img.shields.io/github/stars/GXX0T/NotWidgets?style=for-the-badge&color=gold)
 
-![Last Commit](https://img.shields.io/github/last-commit/GXX0T/NotWidgets?style=for-the-badge&color=9cf)
-![Commits This Month](https://img.shields.io/github/commit-activity/m/GXX0T/NotWidgets?style=for-the-badge&color=orange)
+![Last Commit](https://img.shields.io/github/last-commit/GXX0T/NotWidgets?style=for-the-badge&color=green)
+![Commits This Month](https://img.shields.io/github/commit-activity/m/GXX0T/NotWidgets?style=for-the-badge&color=green)
 
 
 > "If we use widgets every day on our phones, why not on our PCs too?"
