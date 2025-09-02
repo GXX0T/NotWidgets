@@ -109,4 +109,21 @@ You also can contact with me via [nothing.community](https://nothing.community/u
 
 ---
 
+Discover
+> [⚠️ Disclaimers](https://github.com/GXX0T/NotWidgets?tab=readme-ov-file#%EF%B8%8F-disclaimers)
+>
+> [✨ Features](https://github.com/GXX0T/NotWidgets?tab=readme-ov-file#-features)
+>
+> [📦 Installation](https://github.com/GXX0T/NotWidgets?tab=readme-ov-file#-installation)
+>
+> [🖼️ Widget Showcase](https://github.com/GXX0T/NotWidgets?tab=readme-ov-file#%EF%B8%8F-widget-showcase)
+>
+> [📩 ToDo](https://github.com/GXX0T/NotWidgets?tab=readme-ov-file#-todo)
+>
+> [👉 QA](https://github.com/GXX0T/NotWidgets?tab=readme-ov-file#-qa)
+>
+> [📜 License](https://github.com/GXX0T/NotWidgets?tab=readme-ov-file#-license)
+>
+> [💬 Support](https://github.com/GXX0T/NotWidgets?tab=readme-ov-file#-support)
+
 *"Experience the Nothing aesthetic on your desktop - no phone required."*
