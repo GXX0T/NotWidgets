@@ -109,7 +109,8 @@ You also can contact with me via [nothing.community](https://nothing.community/u
 
 ---
 
-Discover
+## Discover
+
 > [⚠️ Disclaimers](https://github.com/GXX0T/NotWidgets?tab=readme-ov-file#%EF%B8%8F-disclaimers)
 >
 > [✨ Features](https://github.com/GXX0T/NotWidgets?tab=readme-ov-file#-features)
