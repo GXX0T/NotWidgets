@@ -18,13 +18,12 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 27 
 - **Not affiliated with Nothing Technology Ltd**.
 - **Not an official** port - independent community project
 - Requires Rainmeter to function
-- Windows 11 users: Widgets may hide with Win+D (disable auto-hide in settings)
 - Enable Hardware Acceleration in rainmeter menu for better perfomance
 
 
 ## ✨ Features
 
-- **27 Ready-to-Use Widgets**  
+- **27 Ready-to-Use Widgets**
 - **Community Focused**  
   Future support for user-generated widgets (coming soon!)
 - **Smooth**  
@@ -43,7 +42,7 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 27 
 3. Refresh Rainmeter if widgets don't appear immediately
 
 **Method 2: Manual Install**
-1. Download `NotWidgets.zip`
+1. Download `NotWidgets.zip` from [Releases](https://github.com/GXX0T/NotWidgets/releases/tag/Release)
 2. Extract to `Documents\Rainmeter\Skins\`
 3. Right-click Rainmeter tray icon → Refresh All
 
