@@ -61,13 +61,13 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 30 
 
 ## 📩 ToDo
 - Countdown widgets
-- Windows's Accent Collor support / Main color mixes with Accent color
+- Windows's Accent Color support / Main color mixes with Accent color
 - Translucent background (Separate .rmskin)
 - Borderless Photo widgets / Under discussion 
 - ↳ Transparent image support
 - Photo widget - .gif support / Under discussion
-- Horizontal Clocks (4x2) / Lock screen based (1 out of 6)
-- Round Clocks (2x2) / OS based (100%/unreleased)
+- Horizontal Clocks (4x2) / Lock screen based (2 out of 6)
+- ~~Round Clocks (2x2) / OS based (100%/released)~~
 - Templates (2x1, 2x2, 4x2, 2x4 / rounded and square) / Community Contribution
 
 
