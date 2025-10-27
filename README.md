@@ -60,14 +60,13 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 30 
 | <img width="520" height="265" alt="image" src="https://github.com/user-attachments/assets/0544b34a-8377-4282-bd75-48a65e2f8323" /> | <img width="520" height="265" alt="image" src="https://github.com/user-attachments/assets/7c7f2baa-b812-4c6d-b652-98146490cfb6" /> |
 
 ## 📩 ToDo
-- Countdown widgets
-- Windows's Accent Color support / Main color mixes with Accent color
-- ~~Borderless Photo widgets~~
-- ↳ ~~Transparent image support~~ no need
-- Photo widget - .gif support / Under discussion
-- Horizontal Clocks (4x2) / Lock screen based (2 out of 6)
+- Countdown widgets - how useful is this on a PC?
+- Rework Photo widget's path access
+- 4x4 Photo widget
+- Photo widget - .gif support / Under discussion / how?
+- Horizontal Clocks (4x2) / Lock screen based (2 out of 6) (NOS4?)
 - Templates (2x1, 2x2, 4x2, 2x4 / rounded and square) / Community Contribution
-
+- Windows's Accent Color support / Main color mixes with Accent color *someday later*
 
 ## 👉 QA
 Q: __How to change photo on photo widget?__
