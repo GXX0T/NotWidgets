@@ -60,6 +60,8 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 30 
 | <img width="520" height="265" alt="image" src="https://github.com/user-attachments/assets/0544b34a-8377-4282-bd75-48a65e2f8323" /> | <img width="520" height="265" alt="image" src="https://github.com/user-attachments/assets/7c7f2baa-b812-4c6d-b652-98146490cfb6" /> |
 
 ## 📩 ToDo
+- Update Showcase-room
+- Rework NotWidget's banner
 - Countdown widgets - how useful is this on a PC?
 - Rework Photo widget's path access
 - 4x4 Photo widget
