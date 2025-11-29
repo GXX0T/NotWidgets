@@ -60,7 +60,8 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 30 
 
 ## <img width="800" height="119" alt="to-" src="https://github.com/user-attachments/assets/f36a038f-7ef8-4e07-be00-ce5177893eae" />
 
-- Update Showcase-room
+- ~~Update Showcase-room~~
+- Extra Dark Theme for widgets from NOS 4.0?
 - Rework NotWidget's banner
 - Countdown widgets - how useful is this on a PC?
 - Rework Photo widget's path access
