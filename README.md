@@ -62,13 +62,12 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 30 
 
 - ~~Update Showcase-room~~
 - Extra Dark Theme for widgets from NOS 4.0?
-- Rework NotWidget's banner
+- ~~Rework NotWidget's banner~~
 - Countdown widgets - how useful is this on a PC?
 - Rework Photo widget's path access
-- 4x4 Photo widget
+- __4x4 Photo widget__
 - Photo widget - .gif support / Under discussion / how?
-- Horizontal Clocks (4x2) / Lock screen based (2 out of 6) (NOS4?)
-- Templates (2x1, 2x2, 4x2, 2x4 / rounded and square) / Community Contribution
+- Horizontal Clocks (4x2) / Lock screen based (2 out of 6) (NOS 4.0?)
 - Windows's Accent Color support / Main color mixes with Accent color *someday later*
 
 ## 👉 QA
