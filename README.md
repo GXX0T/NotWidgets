@@ -49,10 +49,10 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 30 
 
 > They are also Animated! (may take a while to load gif...)
 >
-> ![AllShowcase](https://github.com/user-attachments/assets/96cee0f2-1df7-4920-bbd3-7bda76a7f86b)
->
-> ![MusicWidgetShowcase](https://github.com/user-attachments/assets/9c4e45d2-2106-4cd7-b2d7-9630513ac9a3)
-
+> <div align="center">
+  <img src="https://github.com/user-attachments/assets/96cee0f2-1df7-4920-bbd3-7bda76a7f86b" height="300" />
+  <img src="https://github.com/user-attachments/assets/9c4e45d2-2106-4cd7-b2d7-9630513ac9a3" height="300" />
+</div>
 
 | Light Mode | Dark Mode |
 |------------|-----------|
