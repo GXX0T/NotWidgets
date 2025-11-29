@@ -1,20 +1,15 @@
 # NotWidgets: Nothing-Style Widgets for Rainmeter
 
-<img width="800" height="269" alt="th" src="https://github.com/user-attachments/assets/49dacfbf-02a9-4545-9677-9fa597376d3d" />
+<img width="800" height="269" alt="471579320-49dacfbf-02a9-4545-9677-9fa597376d3d" src="https://github.com/user-attachments/assets/10c0ac2f-39c3-4a93-bbb9-d8da330c3ff3" />
 
-![GitHub all releases](https://img.shields.io/github/downloads/GXX0T/NotWidgets/total?style=for-the-badge&color=303030&labelColor=f0f0f0&label=DOWNLOADS&logo=)
-
-  ![GitHub Stars](https://img.shields.io/github/stars/GXX0T/NotWidgets?style=for-the-badge&color=303030&labelColor=f0f0f0&label=STARS&logo=)
-
-  ![Last Commit](https://img.shields.io/github/last-commit/GXX0T/NotWidgets?style=for-the-badge&color=303030&labelColor=f0f0f0&label=LAST%20COMMIT&logo=)
-  ![Commits This Month](https://img.shields.io/github/commit-activity/m/GXX0T/NotWidgets?style=for-the-badge&color=303030&labelColor=f0f0f0&label=MONTHLY%20COMMITS&logo=)
+![GitHub all releases](https://img.shields.io/github/downloads/GXX0T/NotWidgets/total?style=for-the-badge&color=d71920&labelColor=000000&label=DOWNLOADS&logo=) ![GitHub Stars](https://img.shields.io/github/stars/GXX0T/NotWidgets?style=for-the-badge&color=d71920&labelColor=000000&label=STARS&logo=) ![Last Commit](https://img.shields.io/github/last-commit/GXX0T/NotWidgets?style=for-the-badge&color=d71920&labelColor=000000&label=LAST%20COMMIT&logo=) ![Commits This Month](https://img.shields.io/github/commit-activity/m/GXX0T/NotWidgets?style=for-the-badge&color=d71920&labelColor=000000&label=MONTHLY%20COMMITS&logo=)
 
 
 > "If we use widgets every day on our phones, why not on our PCs too?"
 
 Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 30 customizable widgets (core designs × light/dark modes). A community-driven Rainmeter project.
 
-## ⚠️ Disclaimers
+## <img width="800" height="119" alt="dis" src="https://github.com/user-attachments/assets/8f46a915-f269-468b-bb8f-834b939401a0" />
 
 - **Not affiliated with Nothing Technology Ltd**.
 - **Not an official** port - independent community project
@@ -22,14 +17,16 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 30 
 - Enable Hardware Acceleration in rainmeter menu for better perfomance
 
 
-## ✨ Features
+## <img width="800" height="119" alt="fea" src="https://github.com/user-attachments/assets/e995a88b-596e-4131-893b-38433a579474" />
+
 
 - **30 Ready-to-Use Widgets**
 - **Community Focused**  
   Future support for user-generated widgets (coming soon!)
 - **Smooth**  
 
-## 📦 Installation
+## <img width="800" height="119" alt="ins" src="https://github.com/user-attachments/assets/05a91353-e01f-4cfd-9674-beb2e16580d0" />
+
 
 ### Prerequisites
 - Windows 10/11 (recommended)
@@ -47,7 +44,8 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 30 
 2. Extract to `Documents\Rainmeter\Skins\`
 3. Right-click Rainmeter tray icon → Refresh All
 
-## 🖼️ Widget Showcase
+## <img width="800" height="119" alt="sho" src="https://github.com/user-attachments/assets/f73f11d9-f559-4496-8d1f-3859ad6529d8" />
+
 
 > They are also Animated! (may take a while to load gif...)
 >
@@ -60,7 +58,8 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 30 
 |------------|-----------|
 | <img width="520" height="265" alt="image" src="https://github.com/user-attachments/assets/0544b34a-8377-4282-bd75-48a65e2f8323" /> | <img width="520" height="265" alt="image" src="https://github.com/user-attachments/assets/7c7f2baa-b812-4c6d-b652-98146490cfb6" /> |
 
-## 📩 ToDo
+## <img width="800" height="119" alt="to-" src="https://github.com/user-attachments/assets/f36a038f-7ef8-4e07-be00-ce5177893eae" />
+
 - Update Showcase-room
 - Rework NotWidget's banner
 - Countdown widgets - how useful is this on a PC?
@@ -81,49 +80,18 @@ A:
 
 > Images will change every time you boot Rainmeter \ Refresh Photo Widget
 
+## <img width="800" height="119" alt="lic" src="https://github.com/user-attachments/assets/4a50f7d2-5750-4f65-a561-4cc8dc126766" />
 
-## 👥 Community Contributions (SOON)
-
-> "From the community, for the community" (soon...)
-
-
-We welcome widget submissions! Here's how to contribute:
-
-1. Fork this repository
-2. Create your widget using our template
-3. Submit a Pull Request
-4. Approved widgets will be featured in updates
-
-See ___.MD for detailed guidelines.
-
-## 📜 License
 
 GNU GPL v3
 
-## 💬 Support
+## <img width="800" height="119" alt="sup" src="https://github.com/user-attachments/assets/0f7f1abf-0d19-4435-a80b-5c03527fd9c5" />
+
 
 Have questions or suggestions?  
 Open an [Issue](issues)!
 You also can contact with me via [nothing.community](https://nothing.community/u/aramatniyofc)
 
 ---
-
-## Discover
-
-> [⚠️ Disclaimers](https://github.com/GXX0T/NotWidgets?tab=readme-ov-file#%EF%B8%8F-disclaimers)
->
-> [✨ Features](https://github.com/GXX0T/NotWidgets?tab=readme-ov-file#-features)
->
-> [📦 Installation](https://github.com/GXX0T/NotWidgets?tab=readme-ov-file#-installation)
->
-> [🖼️ Widget Showcase](https://github.com/GXX0T/NotWidgets?tab=readme-ov-file#%EF%B8%8F-widget-showcase)
->
-> [📩 ToDo](https://github.com/GXX0T/NotWidgets?tab=readme-ov-file#-todo)
->
-> [👉 QA](https://github.com/GXX0T/NotWidgets?tab=readme-ov-file#-qa)
->
-> [📜 License](https://github.com/GXX0T/NotWidgets?tab=readme-ov-file#-license)
->
-> [💬 Support](https://github.com/GXX0T/NotWidgets?tab=readme-ov-file#-support)
 
 *"Experience the Nothing aesthetic on your desktop - no phone required."*
