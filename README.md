@@ -20,7 +20,7 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 30 
 ## <img width="800" height="119" alt="fea" src="https://github.com/user-attachments/assets/e995a88b-596e-4131-893b-38433a579474" />
 
 
-- **30 Ready-to-Use Widgets**
+- **34 Ready-to-Use Widgets**
 - **Community Focused**  
   Future support for user-generated widgets (coming soon!)
 - **Smooth**  
