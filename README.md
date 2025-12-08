@@ -46,7 +46,18 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 30 
 
 ## <img width="800" height="119" alt="sho" src="https://github.com/user-attachments/assets/f73f11d9-f559-4496-8d1f-3859ad6529d8" />
 
-
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/027ec4f8-6a54-474f-9791-ee7d20fd3d5f" width="450" alt="Dark"></td>
+      <td><img src="https://github.com/user-attachments/assets/90d89249-e9ff-45cf-af7e-7c52c394458c" width="450" alt="Blue"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/c8c866a0-b75b-47ed-9337-6aaa9d15dcc9" width="450" alt="Red"></td>
+      <td><img src="https://github.com/user-attachments/assets/d1032cf6-5b79-40e9-90b4-3ba29a08d8e2" width="450" alt="Green"></td>
+    </tr>
+  </table>
+</div>
 > They are also Animated! (may take a while to load gif...)
 >
 > <div align="center">
