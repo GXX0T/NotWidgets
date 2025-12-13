@@ -73,7 +73,6 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 30 
 
 - Optimize `Variables.inc`
 - Add an ability to __scale__ widgets
-- ~~__4x4 Photo widget__~~
 - Rework Photo widget's path access to photos
 - Horizontal Clocks (4x2) / Lock screen based (2 out of 8)
 - *Extra Dark Theme?*
