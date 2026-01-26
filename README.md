@@ -11,10 +11,14 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 30 
 
 ## <img width="800" height="119" alt="dis" src="https://github.com/user-attachments/assets/8f46a915-f269-468b-bb8f-834b939401a0" />
 
-- **Not affiliated with Nothing Technology Ltd**.
-- **Not an official** port - independent community project
-- Requires Rainmeter to function
-- Enable Hardware Acceleration in rainmeter menu for better perfomance
+> [!WARNING]
+> - **Not affiliated with Nothing Technology Ltd**.
+>
+> - **Not an official** port - independent community project
+>
+> - Requires Rainmeter to function
+>
+> - Enable Hardware Acceleration in rainmeter menu for better perfomance
 
 
 ## <img width="800" height="119" alt="fea" src="https://github.com/user-attachments/assets/e995a88b-596e-4131-893b-38433a579474" />
