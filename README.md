@@ -7,7 +7,7 @@
 
 > "If we use widgets every day on our phones, why not on our PCs too?"
 
-Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 31 customizable widgets (core designs × light/dark modes). A community-driven Rainmeter project.
+Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 32 customizable widgets (core designs × light/dark modes). A community-driven Rainmeter project.
 
 ## <img width="800" height="119" alt="dis" src="https://github.com/user-attachments/assets/8f46a915-f269-468b-bb8f-834b939401a0" />
 
