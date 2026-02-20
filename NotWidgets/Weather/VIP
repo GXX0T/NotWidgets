@@ -1,0 +1,118 @@
+[Rainmeter]
+Update=1000
+AccurateText=1
+DynamicWindowSize=1
+
+[Metadata]
+Information=NOS Square Analogue Clock
+Author=Odd | https://nothing.community/u/aramatniyofc | u/Odd-Cream-878 
+Version=1.0
+
+[Variables]
+@include=#@#Variables.inc
+ClockSize=240
+DotCl=7
+CenterX=(#ClockSize#/2)
+CenterY=(#ClockSize#/2)
+HandThickness=24
+HandThickness2=8
+HourMarkerLength=15  
+HourMarkerThickness=4
+MinuteMarkerLength=12
+MinuteMarkerThickness=2 
+HandThickness_Hour=4
+HandThickness_Minute=4
+HandThickness_Second=2
+SecondDotOffset=0.33
+SquarePadding=20
+SquareRadius=15
+
+; === Time Measures ===
+[MeasureTime]
+Measure=Time
+Format=%H:%M:%S
+
+[MeasureHours]
+Measure=Time
+Format=%I
+MinValue=0
+MaxValue=12
+
+[MeasureMinutes]
+Measure=Time
+Format=%M
+MinValue=0
+MaxValue=59
+
+[MeasureSeconds]
+Measure=Time
+Format=%S
+MinValue=0
+MaxValue=59
+
+; === Square Background ===
+[SquareBackground]
+Meter=Shape
+Shape=Rectangle 0,0,(#ClockSize#+#SquarePadding#*2),(#ClockSize#+#SquarePadding#*2),#SquareRadius# | Fill Color #BGColor_Dark# | StrokeWidth 0
+X=0
+Y=0
+DynamicVariables=1
+
+; === Square Border ===
+[SquareBorder]
+Meter=Shape
+Shape=Rectangle #SquarePadding#,#SquarePadding#,#ClockSize#,#ClockSize#,#SquareRadius# | Fill Color 0,0,0,0 | StrokeWidth 2 | Stroke Color #AccentColor_Red#
+X=0
+Y=0
+DynamicVariables=1
+
+; === Minute Markers (Simplified with Loop) ===
+[MinuteMarkers]
+Meter=Shape
+; Loop for minute markers (every 5 minutes)
+@Include=#@#MinuteMarkers.inc
+DynamicVariables=1
+AntiAlias=1
+
+; === Hour Markers (Simplified with Loop) ===
+[HourMarkers]
+Meter=Shape
+; Loop for hour markers
+@Include=#@#HourMarkers.inc
+DynamicVariables=1
+AntiAlias=1
+
+; === Hour Hand ===
+[HourHand]
+Meter=Shape
+MeasureName=MeasureHours
+Shape=Path HourPath | StrokeWidth #HandThickness_Hour# | Stroke Color #AccentColor_Dark# | StrokeStartCap Square | StrokeEndCap Square
+HourPath=(#CenterX#+#SquarePadding# + -0.075*#ClockSize#*Cos([MeasureHours]*0.5236 - 1.5708)),(#CenterY#+#SquarePadding# + -0.075*#ClockSize#*Sin([MeasureHours]*0.5236 - 1.5708)) | LineTo (#CenterX#+#SquarePadding# + 0.25*#ClockSize#*Cos([MeasureHours]*0.5236 - 1.5708)),(#CenterY#+#SquarePadding# + 0.25*#ClockSize#*Sin([MeasureHours]*0.5236 - 1.5708))
+DynamicVariables=1
+AntiAlias=1
+
+; === Minute Hand ===
+[MinuteHand]
+Meter=Shape
+MeasureName=MeasureMinutes
+Shape=Path MinutePath | StrokeWidth #HandThickness_Minute# | Stroke Color #AccentColor_Dark# | StrokeStartCap Square | StrokeEndCap Square
+MinutePath=(#CenterX#+#SquarePadding# + -0.075*#ClockSize#*Cos([MeasureMinutes]*0.10472 - 1.5708)),(#CenterY#+#SquarePadding# + -0.075*#ClockSize#*Sin([MeasureMinutes]*0.10472 - 1.5708)) | LineTo (#CenterX#+#SquarePadding# + 0.35*#ClockSize#*Cos([MeasureMinutes]*0.10472 - 1.5708)),(#CenterY#+#SquarePadding# + 0.35*#ClockSize#*Sin([MeasureMinutes]*0.10472 - 1.5708))
+DynamicVariables=1
+AntiAlias=1
+
+; === Center Dots ===
+[CenterDots]
+Meter=Shape
+Shape=Ellipse (#CenterX#+#SquarePadding#),(#CenterY#+#SquarePadding#),(#HandThickness_Hour#*1.5) | Fill Color #AccentColor_Dark# | StrokeWidth 0
+Shape2=Ellipse (#CenterX#+#SquarePadding#),(#CenterY#+#SquarePadding#),(#HandThickness_Hour#*0.8) | Fill Color #AccentColor_Red# | StrokeWidth 0
+AntiAlias=1
+
+; === Second Hand with Dot ===
+[SecondHandWithDot]
+Meter=Shape
+MeasureName=MeasureSeconds
+Shape=Path SecondPath | StrokeWidth #HandThickness_Second# | Stroke Color #AccentColor_Red# | StrokeStartCap Square | StrokeEndCap Square
+Shape2=Ellipse (#CenterX#+#SquarePadding# + #SecondDotOffset#*#ClockSize#*Cos([MeasureSeconds]*0.10472 - 1.5708)), (#CenterY#+#SquarePadding# + #SecondDotOffset#*#ClockSize#*Sin([MeasureSeconds]*0.10472 - 1.5708)), #DotCl# | Fill Color #AccentColor_Red# | StrokeWidth 0
+SecondPath=(#CenterX#+#SquarePadding# + -0.075*#ClockSize#*Cos([MeasureSeconds]*0.10472 - 1.5708)),(#CenterY#+#SquarePadding# + -0.075*#ClockSize#*Sin([MeasureSeconds]*0.10472 - 1.5708)) | LineTo (#CenterX#+#SquarePadding# + 0.4*#ClockSize#*Cos([MeasureSeconds]*0.10472 - 1.5708)),(#CenterY#+#SquarePadding# + 0.4*#ClockSize#*Sin([MeasureSeconds]*0.10472 - 1.5708))
+DynamicVariables=1
+AntiAlias=1
