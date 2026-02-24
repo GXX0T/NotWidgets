@@ -2,7 +2,7 @@
 
 <img width="800" height="269" alt="471579320-49dacfbf-02a9-4545-9677-9fa597376d3d" src="https://github.com/user-attachments/assets/10c0ac2f-39c3-4a93-bbb9-d8da330c3ff3" />
 
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AI4Finance-Foundation&repo=FinRL-Trading&countColor=%23d71920&labelColor=%23000000&label=VISITORS&style=for-the-badge)
+
 ![GitHub all releases](https://img.shields.io/github/downloads/GXX0T/NotWidgets/total?style=for-the-badge&color=d71920&labelColor=000000&label=DOWNLOADS&logo=)
 ![GitHub latest release downloads](https://img.shields.io/github/downloads/GXX0T/NotWidgets/latest/total?style=for-the-badge&color=d71920&labelColor=000000&label=LATEST%20RELEASE&logo=)
 ![GitHub Stars](https://img.shields.io/github/stars/GXX0T/NotWidgets?style=for-the-badge&color=d71920&labelColor=000000&label=STARS&logo=)
