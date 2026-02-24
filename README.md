@@ -3,11 +3,8 @@
 <img width="800" height="269" alt="471579320-49dacfbf-02a9-4545-9677-9fa597376d3d" src="https://github.com/user-attachments/assets/10c0ac2f-39c3-4a93-bbb9-d8da330c3ff3" />
 
 
-![GitHub all releases](https://img.shields.io/github/downloads/GXX0T/NotWidgets/total?style=for-the-badge&color=d71920&labelColor=000000&label=DOWNLOADS&logo=)
-![GitHub latest release downloads](https://img.shields.io/github/downloads/GXX0T/NotWidgets/latest/total?style=for-the-badge&color=d71920&labelColor=000000&label=LATEST%20RELEASE&logo=)
-![GitHub Stars](https://img.shields.io/github/stars/GXX0T/NotWidgets?style=for-the-badge&color=d71920&labelColor=000000&label=STARS&logo=)
-![Last Commit](https://img.shields.io/github/last-commit/GXX0T/NotWidgets?style=for-the-badge&color=d71920&labelColor=000000&label=LAST%20COMMIT&logo=)
-![Commits This Month](https://img.shields.io/github/commit-activity/m/GXX0T/NotWidgets?style=for-the-badge&color=d71920&labelColor=000000&label=MONTHLY%20COMMITS&logo=)
+![GitHub all releases](https://img.shields.io/github/downloads/GXX0T/NotWidgets/total?style=for-the-badge&color=d71920&labelColor=000000&label=DOWNLOADS&logo=) ![GitHub Stars](https://img.shields.io/github/stars/GXX0T/NotWidgets?style=for-the-badge&color=d71920&labelColor=000000&label=STARS&logo=) ![Last Commit](https://img.shields.io/github/last-commit/GXX0T/NotWidgets?style=for-the-badge&color=d71920&labelColor=000000&label=LAST%20COMMIT&logo=) ![Commits This Month](https://img.shields.io/github/commit-activity/m/GXX0T/NotWidgets?style=for-the-badge&color=d71920&labelColor=000000&label=MONTHLY%20COMMITS&logo=)
+
 
 
 > "If we use widgets every day on our phones, why not on our PCs too?"
