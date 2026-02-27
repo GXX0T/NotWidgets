@@ -5,7 +5,8 @@
 
 
 ![GitHub all releases](https://img.shields.io/github/downloads/GXX0T/NotWidgets/total?style=for-the-badge&color=d71920&labelColor=000000&label=DOWNLOADS&logo=)
-![GitHub latest release downloads](https://img.shields.io/github/downloads/GXX0T/NotWidgets/latest/total?style=for-the-badge&color=d71920&labelColor=000000&label=LATEST%20RELEASE&logo=) ![GitHub Stars](https://img.shields.io/github/stars/GXX0T/NotWidgets?style=for-the-badge&color=d71920&labelColor=000000&label=STARS&logo=) ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AI4Finance-Foundation&repo=FinRL-Trading&countColor=%23d71920&labelColor=%23000000&label=VISITORS&style=for-the-badge)
+![GitHub latest release downloads](https://img.shields.io/github/downloads/GXX0T/NotWidgets/latest/total?style=for-the-badge&color=d71920&labelColor=000000&label=LATEST%20RELEASE&logo=) ![GitHub Stars](https://img.shields.io/github/stars/GXX0T/NotWidgets?style=for-the-badge&color=d71920&labelColor=000000&label=STARS&logo=) ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=GXX0T&repo=NotWidgets&countColor=%23d71920&labelColor=%23000000&label=VISITORS&style=for-the-badge)
+
 
 
 
