@@ -35,7 +35,7 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 36 
 ## <img width="800" height="119" alt="fea" src="https://github.com/user-attachments/assets/e995a88b-596e-4131-893b-38433a579474" />
 
 
-- **36 Ready-to-Use Widgets**
+- **Ready-to-Use Widgets**
 - **Community Focused**  
   Future support for user-generated widgets (coming soon!)
 - **Smooth**  
@@ -50,7 +50,7 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 36 
 ### Installation Methods
 
 **Method 1: .rmskin (Recommended)**
-1. Download `NotWidgets.rmskin` from [Releases](https://github.com/GXX0T/NotWidgets/releases/tag/Release)
+1. Download `NotWidgets.rmskin` from [Releases](https://github.com/GXX0T/NotWidgets/releases)
 2. Double-click → Install
 3. Refresh Rainmeter if widgets don't appear immediately
 
