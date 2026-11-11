@@ -37,7 +37,6 @@ Bringing the minimalist aesthetic of Nothing OS to your Windows desktop with 36 
 
 - **Ready-to-Use Widgets**
 - **Community Focused**  
-  Future support for user-generated widgets (coming soon!)
 - **Smooth**  
 
 ## <img width="800" height="119" alt="ins" src="https://github.com/user-attachments/assets/05a91353-e01f-4cfd-9674-beb2e16580d0" />
